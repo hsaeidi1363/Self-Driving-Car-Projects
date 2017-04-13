@@ -1,1 +1,1 @@
-In this project, a set of labled images from the German traffic sign dataset is used to train a neural network for the classification of traffic signs.
+In this project, a set of labled images from the German traffic sign dataset is used to train a neural network for the classification of traffic signs. See Traffic_Sign_Classifier.ipynb for the detailed report.
