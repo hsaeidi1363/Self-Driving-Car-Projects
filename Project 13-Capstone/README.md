@@ -69,6 +69,9 @@ rosbag play -l traffic_light_bag_file/traffic_light_training.bag
 4. Launch your project in site mode
 ```bash
 cd CarND-Capstone/ros
+
+
+# See this link for an example of the results: https://youtu.be/xShTlNEjlvw
 roslaunch launch/site.launch
 ```
 5. Confirm that traffic light detection works on real life images
